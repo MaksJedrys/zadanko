@@ -1,0 +1,2 @@
+1. SELECT miesiac, rok FROM 'zadania' WHERE 2020-07-03;
+2. SELECT dataZadania, miesiac, wpis
